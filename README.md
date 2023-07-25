@@ -11,4 +11,7 @@ Operation on Bit using C++ STL
 [GDB compiler]: https://onlinegdb.com/iW5t6tmrx
 
 4. Check Kth bit is set or not with right
-[GDB compiler]: https://onlinegdb.com/g5YhzqmoN
+[GDB compiler]: https://onlinegdb.com/g5YhzqmoNhttps://onlinegdb.com/XP6yv5Mf_
+
+5. Count Set Bits by three methods
+[GDB compiler]: https://onlinegdb.com/YK8qKost0
