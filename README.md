@@ -8,8 +8,8 @@ Operation on Bit using C++ STL
 [GDB compiler]: https://onlinegdb.com/zGfBqE6gl
 
 3. Check Kth bit is set or not 
-    -with left [GDB compiler]: https://onlinegdb.com/iW5t6tmrx
-    -with right [GDB compiler]: https://onlinegdb.com/g5YhzqmoNhttps://onlinegdb.com/XP6yv5Mf_
+    -with left [GDB compiler]: https://onlinegdb.com/iW5t6tmrx                                                       
+    -with right [GDB compiler]: https://onlinegdb.com/cnCz9iIe8
 
 4. Count Set Bits by three methods
 [GDB compiler]: https://onlinegdb.com/YK8qKost0
